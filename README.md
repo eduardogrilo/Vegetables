@@ -1,2 +1,2 @@
 # Vegetables
-Interview Questions from João Luís Casal Novo
+Exercise from a friend
